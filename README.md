@@ -1,5 +1,5 @@
 # MIT-Challenge-2020
-For collborators:
+For collaborators:
 
 To open the file,
 1) Go to google colab website
