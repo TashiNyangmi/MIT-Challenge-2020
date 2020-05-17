@@ -2,7 +2,7 @@
 presentation link: https://drive.google.com/open?id=1weNVQybG_iIaInoVJxUuWO-pZycbA9Ai
 For collaborators:
 
-To open the python nb file,
+To open the python notebook,
 1) Go to google colab website
 2) Switch to "GitHub" tab in the dialogue box (Default = "Recent)
 3) Paste the file path (i.e. in this case https://github.com/TashiNyangmi/MIT-Challenge-2020/blob/master/c006_final_updated.ipynb )
