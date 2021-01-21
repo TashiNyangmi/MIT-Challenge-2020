@@ -1,2 +1,2 @@
 # MIT-Challenge-2020
-presentation link: https://drive.google.com/open?id=1weNVQybG_iIaInoVJxUuWO-pZycbA9Ai
+Presentation link: https://docs.google.com/presentation/d/1YaogHboR_VvzaSqcGT2Ma5V6NsmmR0Yeu_3Np3_QW9I/edit?usp=sharing
